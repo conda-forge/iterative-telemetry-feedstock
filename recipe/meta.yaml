@@ -1,5 +1,5 @@
 {% set name = "iterative-telemetry" %}
-{% set version = "0.0.6" %}
+{% set version = "0.0.7" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 721bc0bfa962eb4d80877d5a4e04c758881ea7e7e7529a3f0e9bfd7e829365e2
+  sha256: 738448b35c82570e8eca8b463c81e2cc3e5aaeabb65632625888df42151e494d
 
 build:
   noarch: python
