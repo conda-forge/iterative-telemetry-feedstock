@@ -1,11 +1,11 @@
-About iterative-telemetry
-=========================
+About iterative-telemetry-feedstock
+===================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/iterative-telemetry-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/iterative/telemetry-python
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/iterative-telemetry-feedstock/blob/main/LICENSE.txt)
 
 Summary: Common library to send usage telemetry
 
@@ -146,5 +146,6 @@ Feedstock Maintainers
 * [@casperdcl](https://github.com/casperdcl/)
 * [@efiop](https://github.com/efiop/)
 * [@mike0sv](https://github.com/mike0sv/)
+* [@pmrowla](https://github.com/pmrowla/)
 * [@shcheklein](https://github.com/shcheklein/)
 
