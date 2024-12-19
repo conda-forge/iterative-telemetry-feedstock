@@ -144,7 +144,6 @@ Feedstock Maintainers
 =====================
 
 * [@casperdcl](https://github.com/casperdcl/)
-* [@efiop](https://github.com/efiop/)
 * [@mike0sv](https://github.com/mike0sv/)
 * [@pmrowla](https://github.com/pmrowla/)
 * [@shcheklein](https://github.com/shcheklein/)
